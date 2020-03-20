@@ -35,14 +35,14 @@ function App() {
                   Dear Crested Butte Community –
                 </p>
                 <p>
-                  This website is a way to support service employees of local and independent restaurants and businesses who have had operations severely changed due to state and county mandates. YOU can now “tip” into a virtual tip jar! ALL donations flow through directly to laid off service sector employees.
+                  This website is a way to support service employees of local and independent restaurants who have had operations severely changed due to state and county mandates. YOU can now “tip” into a virtual tip jar! ALL donations flow through directly to laid off service sector employees.
                 </p>
                 <ul>
                   <li>
                     Any amount is helpful and will be directly deposited into employee’s accounts via venmo/zelle/cash app.
                   </li>
                   <li>
-                    You can choose to tip directly into a business “tip jar” OR tip into a general CB “tip jar”
+                    You can choose to tip directly into a restaurant “tip jar” OR tip into a general CB “tip jar”
                   </li>
                   <li>This effort is an emergency response and is not tax-deductible (consider it a generous offering)</li>
                   <li>Each employee is verified by the business owner</li>
