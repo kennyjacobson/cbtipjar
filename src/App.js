@@ -31,6 +31,11 @@ function App() {
           <div className="App-header-content-container">
             <div className="App-header-content-item App-header-content-item-letter">
               <div>
+                <div>
+                  <b>DEADLINE FOR DONATIONS IS SUNDAY, APRIL 5TH, 12:00 PM</b>
+                </div>
+                
+
                 <p>
                   Dear Crested Butte Community –
                 </p>
