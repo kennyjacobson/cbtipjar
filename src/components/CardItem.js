@@ -15,7 +15,7 @@ const CardItem = (props) => {
             <div className="Card-photo">
                 <div>
 
-                    <img alt="restaurant photo" src={props.restaurant.photo ? props.restaurant.photo.url : '/image-not-found.png'}></img>
+                    <img alt="restaurant " src={props.restaurant.photo ? props.restaurant.photo.url : '/image-not-found.png'}></img>
 
                 </div>
             </div>
