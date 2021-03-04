@@ -60,7 +60,7 @@ function App() {
                 </ul>
 
                 <p>Thank you for your generosity!</p>
-                <p>Haden and Katherine Spencer <br></br><a href="mailto:cbtipjar@gmail.com">cbtipjar@gmail.com</a>  </p>
+                <p>The Spencer Family <br></br><a href="mailto:cbtipjar@gmail.com">cbtipjar@gmail.com</a>  </p>
                 
 
 

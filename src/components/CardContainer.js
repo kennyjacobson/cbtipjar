@@ -25,7 +25,7 @@ const CardContainer = (props) => {
     const { loading, error, data } = useQuery(getRestaurantsQuery);
 
     if (loading) return <p>Loading...</p>;
-    if (error) return <p>Error :(</p>;
+    if (error) return <p>Error :(  </p>;
 
 
     return (
