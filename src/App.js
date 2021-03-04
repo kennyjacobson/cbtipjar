@@ -1,10 +1,10 @@
 import React from 'react';
-import ApolloBoost, { gql } from 'apollo-boost'
+import ApolloBoost from 'apollo-boost'
 import { ApolloProvider } from '@apollo/react-hooks'
 //import logo from './logo.svg';
 import './App.css';
 import CardContainer from './components/CardContainer'
-import GoogleMap from './components/GoogleMap'
+//import GoogleMap from './components/GoogleMap'
 
 
 const client = new ApolloBoost({
@@ -26,7 +26,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <div className="App-header-title">
-            <div><img src="ClickAndTipLogo.png"></img></div>
+            <div><img src="ClickAndTipLogo.png" alt="Click and tip logo"></img></div>
           </div>
           <div className="App-header-content-container">
             <div className="App-header-content-item App-header-content-item-letter">
@@ -67,7 +67,7 @@ function App() {
               </div>
             </div>
             <div className="App-header-content-item App-header-content-item-map">
-              <img src="CBTipJar.png"></img>
+              <img src="CBTipJar.png" alt="tip jar logo"></img>
             </div>
           </div>
         </header>

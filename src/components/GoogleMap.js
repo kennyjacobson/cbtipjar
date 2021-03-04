@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
  
-const AnyReactComponent = ({ text }) => <div className='GoogleMarker'><img src='/greenhourmarker.png'></img>{text}</div>;
+const AnyReactComponent = ({ text }) => <div className='GoogleMarker'><img alt="green marker" src='/greenhourmarker.png'></img>{text}</div>;
  
 class GoogleMap extends Component {
   static defaultProps = {
